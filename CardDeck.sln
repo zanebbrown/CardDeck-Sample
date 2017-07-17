@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeck", "CardDeck\CardDeck.csproj", "{61F2C4B4-05A6-4255-B409-EDC91520C8AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeck_UnitTest", "CardDeck_UnitTest\CardDeck_UnitTest.csproj", "{4785700E-3933-4189-8551-F633EE1332D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F2C4B4-05A6-4255-B409-EDC91520C8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F2C4B4-05A6-4255-B409-EDC91520C8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F2C4B4-05A6-4255-B409-EDC91520C8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F2C4B4-05A6-4255-B409-EDC91520C8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4785700E-3933-4189-8551-F633EE1332D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4785700E-3933-4189-8551-F633EE1332D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4785700E-3933-4189-8551-F633EE1332D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4785700E-3933-4189-8551-F633EE1332D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

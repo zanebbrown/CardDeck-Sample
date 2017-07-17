@@ -1,0 +1,5 @@
+C:\Learning\Projects\CardDeck\CardDeck\bin\Debug\CardDeck.dll
+C:\Learning\Projects\CardDeck\CardDeck\bin\Debug\CardDeck.pdb
+C:\Learning\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.csprojResolveAssemblyReference.cache
+C:\Learning\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.dll
+C:\Learning\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.pdb

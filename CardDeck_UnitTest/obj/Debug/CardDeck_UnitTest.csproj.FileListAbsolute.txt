@@ -1,0 +1,8 @@
+C:\Learning\Projects\CardDeck\CardDeck_UnitTest\bin\Debug\CardDeck_UnitTest.dll
+C:\Learning\Projects\CardDeck\CardDeck_UnitTest\bin\Debug\CardDeck_UnitTest.pdb
+C:\Learning\Projects\CardDeck\CardDeck_UnitTest\bin\Debug\CardDeck.dll
+C:\Learning\Projects\CardDeck\CardDeck_UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Learning\Projects\CardDeck\CardDeck_UnitTest\bin\Debug\CardDeck.pdb
+C:\Learning\Projects\CardDeck\CardDeck_UnitTest\obj\Debug\CardDeck_UnitTest.csprojResolveAssemblyReference.cache
+C:\Learning\Projects\CardDeck\CardDeck_UnitTest\obj\Debug\CardDeck_UnitTest.dll
+C:\Learning\Projects\CardDeck\CardDeck_UnitTest\obj\Debug\CardDeck_UnitTest.pdb
